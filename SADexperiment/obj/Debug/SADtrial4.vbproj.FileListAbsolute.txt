@@ -1,0 +1,8 @@
+D:\IETI college\SAD\Experiment\SADtrial4\SADexperiment\bin\Debug\SADexperiment.exe.config
+D:\IETI college\SAD\Experiment\SADtrial4\SADexperiment\obj\Debug\SADexperiment.exe
+D:\IETI college\SAD\Experiment\SADtrial4\SADexperiment\obj\Debug\SADexperiment.xml
+D:\IETI college\SAD\Experiment\SADtrial4\SADexperiment\obj\Debug\SADexperiment.pdb
+D:\IETI college\SAD\Experiment\SADtrial5\SADexperiment\bin\Debug\SADexperiment.exe.config
+D:\IETI college\SAD\Experiment\SADtrial5\SADexperiment\obj\Debug\SADexperiment.exe
+D:\IETI college\SAD\Experiment\SADtrial5\SADexperiment\obj\Debug\SADexperiment.xml
+D:\IETI college\SAD\Experiment\SADtrial5\SADexperiment\obj\Debug\SADexperiment.pdb
